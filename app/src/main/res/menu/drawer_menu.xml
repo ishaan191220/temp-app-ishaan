@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:tools="http://schemas.android.com/tools"
+      xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:showIn="navigation_view">
+
+
+<group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_first_fragment"
+            android:icon="@drawable/ic_baseline_arrow_forward_24"
+            android:title="@string/add_practical_marks" />
+        <item
+            android:id="@+id/nav_second_fragment"
+            android:icon="@drawable/ic_baseline_arrow_forward_24"
+            android:title="@string/add_test_marks" />
+        <item
+            android:id="@+id/nav_third_fragment"
+            android:icon="@drawable/ic_baseline_arrow_forward_24"
+            android:title="@string/view_time_table" />
+    </group>
+
+    <item android:title="@string/others">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:icon="@drawable/ic_baseline_arrow_forward_24"
+                    android:title="@string/home" />
+                <item
+                    android:icon="@drawable/ic_baseline_arrow_forward_24"
+                    android:title="@string/logout" />
+            </group>
+        </menu>
+    </item>
+
+
+
+</menu>
+

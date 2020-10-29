@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="e_mail">E-Mail</string>
+    <string name="login">Login</string>
+    <string name="attempts_remaining_5">Attempts Remaining:-5</string>
+    <string name="enter_name">Enter Name:-</string>
+    <string name="enter_password">Enter Password:-</string>
+    <string name="new_user_sign_up">New User? Sign up</string>
+    <string name="email">Email</string>
+    <string name="fe">FE</string>
+    <string name="se">SE</string>
+    <string name="te">TE</string>
+    <string name="be">BE</string>
+    <string name="comps">Comps</string>
+    <string name="ecs">ECS</string>
+    <string name="mechanical">Mechanical</string>
+    <string name="production">Production</string>
+    <string name="name">Name</string>
+    <string name="year">Year</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="fr_conceicao_rodrigues_college_of_engineering">Fr. Conceicao Rodrigues College of Engineering</string>
+    <string name="roll_no">Roll no</string>
+    <string name="batch">Batch</string>
+    <string name="branch">Branch</string>
+    <string name="sign_up">Sign up</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="enter_email">Enter Email:-</string>
+    <string name="add_practical_marks">Add Practical Marks</string>
+    <string name="add_test_marks">Add Test Marks</string>
+    <string name="view_time_table">View Time Table</string>
+    <string name="others">Others</string>
+    <string name="home">Home</string>
+    <string name="logout">Logout</string>
+    <string name="hello">Hello</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="header">Header</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="frcrce">FRCRCE</string>
+
+
+</resources>
